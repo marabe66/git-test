@@ -7,3 +7,5 @@ with open ("file_size.txt", "w") as outfile:
             msize = str (round ((size/(1024*1024)),1)) + "M"
         out_name = os.path.basename(file)
         outfile.write(out_name + " , " + str(msize) + "\n")
+
+# THIS IS A TEST COMMENT
