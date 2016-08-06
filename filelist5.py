@@ -8,4 +8,4 @@ with open ("file_size.txt", "w") as outfile:
         out_name = os.path.basename(file)
         outfile.write(out_name + " , " + str(msize) + "\n")
 
-# THIS IS A TEST COMMENT TO CHECK CONFLICT
+# THIS IS A TEST COMMENT TO CHECK CONFLICT-1
