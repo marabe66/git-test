@@ -9,3 +9,5 @@ with open ("file_size.txt", "w") as outfile:
         outfile.write(out_name + " , " + str(msize) + "\n")
 
 # THIS IS A TEST COMMENT TO CHECK CONFLICT-1
+# THIS IS A NEW COMMENT
+
